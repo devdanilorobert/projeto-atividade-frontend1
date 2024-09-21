@@ -1,0 +1,1 @@
+Esse é uma atividade prática para a aula de Desenvolvimento Frontend da faculdade.
